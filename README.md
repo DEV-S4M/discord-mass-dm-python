@@ -12,14 +12,12 @@
     <p>A Python script for sending mass DMs on Discord.</p>
     
     <h2>How to Use</h2>
-      <li>Clone or download this repository.</li>
-      <li>Install the required dependencies by running <code>pip install -r requirements.txt</code>.</li>
-      <li>Replace the token in the <code>config.json</code> file with your Discord bot token.</li>
-      <li>Edit the <code>messages.txt</code> file with the messages you want to send. Separate messages with a new line.</li>
-      <li>Run the script using <code>python main.py</code>.</li>
-      <li>Enter the ID of the server you want to send messages to.</li>
-      <li>Optionally, you can set a custom prefix by adding <code>--prefix [your prefix]</code> to the command. The default prefix is ".".</li>
-      <li>Wait for the script to finish sending the messages.</li>
+      Clone or download this repository.</li>
+      Install the required dependencies by running <code>pip install -r requirements.txt</code>.
+      Replace the token in the <code>main.py</code> file with your Discord bot token.
+      Run the script using <code>python main.py</code>.
+      Optionally, you can set a custom prefix by changing the variable <code>prefix</code> in the code. The default prefix is ".".
+      Wait for the script to finish sending the messages.
     
     <p>Note: Make sure your bot has the "Send Messages" and "Read Message History" permissions in the server you want to send messages to.</p>
     
