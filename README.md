@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>discord-mass-dm-python Readme</title>
   </head>
   <body>
     <div style="text-align:center; background-color:#f8d7da; padding:10px;">
@@ -13,7 +12,6 @@
     <p>A Python script for sending mass DMs on Discord.</p>
     
     <h2>How to Use</h2>
-    <ol>
       <li>Clone or download this repository.</li>
       <li>Install the required dependencies by running <code>pip install -r requirements.txt</code>.</li>
       <li>Replace the token in the <code>config.json</code> file with your Discord bot token.</li>
@@ -22,7 +20,6 @@
       <li>Enter the ID of the server you want to send messages to.</li>
       <li>Optionally, you can set a custom prefix by adding <code>--prefix [your prefix]</code> to the command. The default prefix is ".".</li>
       <li>Wait for the script to finish sending the messages.</li>
-    </ol>
     
     <p>Note: Make sure your bot has the "Send Messages" and "Read Message History" permissions in the server you want to send messages to.</p>
     
