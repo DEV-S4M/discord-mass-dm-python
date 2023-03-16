@@ -1,1 +1,1 @@
-# discord-mass-dm-python
+# massdm
