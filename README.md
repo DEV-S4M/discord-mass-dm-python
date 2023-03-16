@@ -1,32 +1,28 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-  </head>
-  <body>
-    <div style="text-align:center; background-color:#f8d7da; padding:10px;">
-      <h2 style="color:#721c24">NOTICE: This code may be deprecated and may not work anymore!</h2>
-    </div>
-    <hr>
-    <h1>discord-mass-dm-python</h1>
-    <p>A Python script for sending mass DMs on Discord.</p>
-    
-    <h2>How to Use</h2>
-      Clone or download this repository.</li>
-      Install the required dependencies by running <code>pip install -r requirements.txt</code>.
-      Replace the token in the <code>main.py</code> file with your Discord bot token.
-      Run the script using <code>python main.py</code>.
-      Optionally, you can set a custom prefix by changing the variable <code>prefix</code> in the code. The default prefix is ".".
-      Wait for the script to finish sending the messages.
-    
-    <p>Note: Make sure your bot has the "Send Messages" and "Read Message History" permissions in the server you want to send messages to.</p>
-    
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE.md">LICENSE.md</a> file for details.</p>
-    
-    <p>Created by DEV-S4M</p>
-    
-    <h2>Looking for more features?</h2>
-    <p>Check out <a href="https://luxsb.top">Lux Selfbot</a> - a powerful selfbot with advanced mass DM capabilities and many more features.</p>
-  </body>
-</html>
+# discord-mass-dm-python
+
+A Python script for sending mass DMs on Discord.
+
+**NOTICE: This code may be deprecated and may not work anymore!**
+
+## How to Use
+
+1. Clone or download this repository.
+2. Install the required dependencies by running `pip install -r requirements.txt`.
+3. Replace the token in the `main.py` file with your Discord bot token.
+5. Run the script using `python main.py`.
+6. Enter the ID of the server you want to send messages to.
+7. Optionally, you can set a custom prefix by changing the variable `prefix` in main.py. The default prefix is `.`.
+8. Wait for the script to finish sending the messages.
+
+Note: Make sure your bot has the "Send Messages" and "Read Message History" permissions in the server you want to send messages to.
+
+## License
+
+This project is licensed - see the [LICENSE.md](LICENSE.md) file for details.
+
+Created by DEV-S4M.
+
+## Looking for more features?
+
+Check out [Lux Selfbot](https://luxsb.top) - a powerful selfbot with advanced mass DM capabilities and many more features.
+``
