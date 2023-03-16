@@ -25,4 +25,3 @@ Created by DEV-S4M.
 ## Looking for more features?
 
 Check out [Lux Selfbot](https://luxsb.top) - a powerful selfbot with advanced mass DM capabilities and many more features.
-``
