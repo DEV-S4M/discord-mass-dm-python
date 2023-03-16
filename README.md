@@ -18,7 +18,7 @@ Note: Make sure your bot has the "Send Messages" and "Read Message History" perm
 
 ## License
 
-This project is licensed - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed - see the [LICENSE](LICENSE) file for details.
 
 Created by DEV-S4M.
 
